@@ -1,0 +1,54 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Dynamic
+  commentId: N:ASE_Assignment_Demo.Dynamic
+  id: ASE_Assignment_Demo.Dynamic
+  children:
+  - ASE_Assignment_Demo.Dynamic.Int
+  - ASE_Assignment_Demo.Dynamic.Real
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Demo.Dynamic
+  nameWithType: ASE_Assignment_Demo.Dynamic
+  fullName: ASE_Assignment_Demo.Dynamic
+  type: Namespace
+  assemblies:
+  - ASE Assignment Demo
+references:
+- uid: ASE_Assignment_Demo.Dynamic.Int
+  commentId: T:ASE_Assignment_Demo.Dynamic.Int
+  parent: ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.Dynamic.Int.html
+  name: Int
+  nameWithType: Int
+  fullName: ASE_Assignment_Demo.Dynamic.Int
+- uid: ASE_Assignment_Demo.Dynamic.Real
+  commentId: T:ASE_Assignment_Demo.Dynamic.Real
+  parent: ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.Dynamic.Real.html
+  name: Real
+  nameWithType: Real
+  fullName: ASE_Assignment_Demo.Dynamic.Real
+- uid: ASE_Assignment_Demo.Dynamic
+  commentId: N:ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Dynamic
+  nameWithType: ASE_Assignment_Demo.Dynamic
+  fullName: ASE_Assignment_Demo.Dynamic
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html

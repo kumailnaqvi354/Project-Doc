@@ -1,0 +1,493 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand
+  commentId: T:ASE_Assignment_Demo.Commands.TriangleCommand
+  id: TriangleCommand
+  parent: ASE_Assignment_Demo.Commands
+  children:
+  - ASE_Assignment_Demo.Commands.TriangleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  - ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  langs:
+  - csharp
+  - vb
+  name: TriangleCommand
+  nameWithType: TriangleCommand
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand
+  type: Class
+  source:
+    remote:
+      path: ASE Assignment Demo/Commands/TriangleCommand.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: TriangleCommand
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Commands/TriangleCommand.cs
+    startLine: 8
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo.Commands
+  summary: Represents a command to draw a triangle on the canvas.
+  example: []
+  syntax:
+    content: 'public class TriangleCommand : ICustomCommand'
+    content.vb: Public Class TriangleCommand Implements ICustomCommand
+  inheritance:
+  - System.Object
+  implements:
+  - ASE_Assignment_Demo.Interfaces.ICustomCommand
+  inheritedMembers:
+  - System.Object.Equals(System.Object)
+  - System.Object.Equals(System.Object,System.Object)
+  - System.Object.GetHashCode
+  - System.Object.GetType
+  - System.Object.MemberwiseClone
+  - System.Object.ReferenceEquals(System.Object,System.Object)
+  - System.Object.ToString
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  commentId: M:ASE_Assignment_Demo.Commands.TriangleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  id: '#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)'
+  parent: ASE_Assignment_Demo.Commands.TriangleCommand
+  langs:
+  - csharp
+  - vb
+  name: TriangleCommand(Int, Int)
+  nameWithType: TriangleCommand.TriangleCommand(Int, Int)
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.TriangleCommand(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  type: Constructor
+  source:
+    remote:
+      path: ASE Assignment Demo/Commands/TriangleCommand.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: .ctor
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Commands/TriangleCommand.cs
+    startLine: 18
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo.Commands
+  summary: Initializes a new instance of the <xref href="ASE_Assignment_Demo.Commands.TriangleCommand" data-throw-if-not-resolved="false"></xref> class.
+  example: []
+  syntax:
+    content: public TriangleCommand(Int width, Int height)
+    parameters:
+    - id: width
+      type: ASE_Assignment_Demo.Dynamic.Int
+      description: The width of the triangle.
+    - id: height
+      type: ASE_Assignment_Demo.Dynamic.Int
+      description: The height of the triangle.
+    content.vb: Public Sub New(width As Int, height As Int)
+  overload: ASE_Assignment_Demo.Commands.TriangleCommand.#ctor*
+  nameWithType.vb: TriangleCommand.New(Int, Int)
+  fullName.vb: ASE_Assignment_Demo.Commands.TriangleCommand.New(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  name.vb: New(Int, Int)
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  commentId: M:ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  id: Execute(ASE_Assignment_Demo.IAppCanvas)
+  parent: ASE_Assignment_Demo.Commands.TriangleCommand
+  langs:
+  - csharp
+  - vb
+  name: Execute(IAppCanvas)
+  nameWithType: TriangleCommand.Execute(IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Commands/TriangleCommand.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Execute
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Commands/TriangleCommand.cs
+    startLine: 28
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo.Commands
+  summary: Executes the triangle drawing command on the canvas.
+  example: []
+  syntax:
+    content: public void Execute(IAppCanvas canvas)
+    parameters:
+    - id: canvas
+      type: ASE_Assignment_Demo.IAppCanvas
+      description: The canvas on which to draw the triangle.
+    content.vb: Public Sub Execute(canvas As IAppCanvas)
+  overload: ASE_Assignment_Demo.Commands.TriangleCommand.Execute*
+  implements:
+  - ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+references:
+- uid: ASE_Assignment_Demo.Commands
+  commentId: N:ASE_Assignment_Demo.Commands
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Commands
+  nameWithType: ASE_Assignment_Demo.Commands
+  fullName: ASE_Assignment_Demo.Commands
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Commands
+    name: Commands
+    href: ASE_Assignment_Demo.Commands.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Commands
+    name: Commands
+    href: ASE_Assignment_Demo.Commands.html
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  commentId: T:ASE_Assignment_Demo.Interfaces.ICustomCommand
+  parent: ASE_Assignment_Demo.Interfaces
+  href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html
+  name: ICustomCommand
+  nameWithType: ICustomCommand
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand
+- uid: System.Object.Equals(System.Object)
+  commentId: M:System.Object.Equals(System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  name: Equals(object)
+  nameWithType: object.Equals(object)
+  fullName: object.Equals(object)
+  nameWithType.vb: Object.Equals(Object)
+  fullName.vb: Object.Equals(Object)
+  name.vb: Equals(Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.Equals(System.Object,System.Object)
+  commentId: M:System.Object.Equals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  name: Equals(object, object)
+  nameWithType: object.Equals(object, object)
+  fullName: object.Equals(object, object)
+  nameWithType.vb: Object.Equals(Object, Object)
+  fullName.vb: Object.Equals(Object, Object)
+  name.vb: Equals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.Equals(System.Object,System.Object)
+    name: Equals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.GetHashCode
+  commentId: M:System.Object.GetHashCode
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  name: GetHashCode()
+  nameWithType: object.GetHashCode()
+  fullName: object.GetHashCode()
+  nameWithType.vb: Object.GetHashCode()
+  fullName.vb: Object.GetHashCode()
+  spec.csharp:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetHashCode
+    name: GetHashCode
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gethashcode
+  - name: (
+  - name: )
+- uid: System.Object.GetType
+  commentId: M:System.Object.GetType
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  name: GetType()
+  nameWithType: object.GetType()
+  fullName: object.GetType()
+  nameWithType.vb: Object.GetType()
+  fullName.vb: Object.GetType()
+  spec.csharp:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.GetType
+    name: GetType
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.gettype
+  - name: (
+  - name: )
+- uid: System.Object.MemberwiseClone
+  commentId: M:System.Object.MemberwiseClone
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  name: MemberwiseClone()
+  nameWithType: object.MemberwiseClone()
+  fullName: object.MemberwiseClone()
+  nameWithType.vb: Object.MemberwiseClone()
+  fullName.vb: Object.MemberwiseClone()
+  spec.csharp:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.MemberwiseClone
+    name: MemberwiseClone
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone
+  - name: (
+  - name: )
+- uid: System.Object.ReferenceEquals(System.Object,System.Object)
+  commentId: M:System.Object.ReferenceEquals(System.Object,System.Object)
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  name: ReferenceEquals(object, object)
+  nameWithType: object.ReferenceEquals(object, object)
+  fullName: object.ReferenceEquals(object, object)
+  nameWithType.vb: Object.ReferenceEquals(Object, Object)
+  fullName.vb: Object.ReferenceEquals(Object, Object)
+  name.vb: ReferenceEquals(Object, Object)
+  spec.csharp:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+  spec.vb:
+  - uid: System.Object.ReferenceEquals(System.Object,System.Object)
+    name: ReferenceEquals
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.referenceequals
+  - name: (
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: ','
+  - name: " "
+  - uid: System.Object
+    name: Object
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object
+  - name: )
+- uid: System.Object.ToString
+  commentId: M:System.Object.ToString
+  parent: System.Object
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  name: ToString()
+  nameWithType: object.ToString()
+  fullName: object.ToString()
+  nameWithType.vb: Object.ToString()
+  fullName.vb: Object.ToString()
+  spec.csharp:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+  spec.vb:
+  - uid: System.Object.ToString
+    name: ToString
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.object.tostring
+  - name: (
+  - name: )
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: ASE_Assignment_Demo.Interfaces
+  commentId: N:ASE_Assignment_Demo.Interfaces
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Interfaces
+  nameWithType: ASE_Assignment_Demo.Interfaces
+  fullName: ASE_Assignment_Demo.Interfaces
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand
+  commentId: T:ASE_Assignment_Demo.Commands.TriangleCommand
+  href: ASE_Assignment_Demo.Commands.TriangleCommand.html
+  name: TriangleCommand
+  nameWithType: TriangleCommand
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.#ctor*
+  commentId: Overload:ASE_Assignment_Demo.Commands.TriangleCommand.#ctor
+  href: ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand__ctor_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_
+  name: TriangleCommand
+  nameWithType: TriangleCommand.TriangleCommand
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.TriangleCommand
+  nameWithType.vb: TriangleCommand.New
+  fullName.vb: ASE_Assignment_Demo.Commands.TriangleCommand.New
+  name.vb: New
+- uid: ASE_Assignment_Demo.Dynamic.Int
+  commentId: T:ASE_Assignment_Demo.Dynamic.Int
+  parent: ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.Dynamic.Int.html
+  name: Int
+  nameWithType: Int
+  fullName: ASE_Assignment_Demo.Dynamic.Int
+- uid: ASE_Assignment_Demo.Dynamic
+  commentId: N:ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Dynamic
+  nameWithType: ASE_Assignment_Demo.Dynamic
+  fullName: ASE_Assignment_Demo.Dynamic
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.Execute*
+  commentId: Overload:ASE_Assignment_Demo.Commands.TriangleCommand.Execute
+  href: ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  name: Execute
+  nameWithType: TriangleCommand.Execute
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.Execute
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  commentId: M:ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  parent: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  name: Execute(IAppCanvas)
+  nameWithType: ICustomCommand.Execute(IAppCanvas)
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  spec.csharp:
+  - uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+    name: Execute
+    href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  - name: (
+  - uid: ASE_Assignment_Demo.IAppCanvas
+    name: IAppCanvas
+    href: ASE_Assignment_Demo.IAppCanvas.html
+  - name: )
+  spec.vb:
+  - uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+    name: Execute
+    href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  - name: (
+  - uid: ASE_Assignment_Demo.IAppCanvas
+    name: IAppCanvas
+    href: ASE_Assignment_Demo.IAppCanvas.html
+  - name: )
+- uid: ASE_Assignment_Demo.IAppCanvas
+  commentId: T:ASE_Assignment_Demo.IAppCanvas
+  parent: ASE_Assignment_Demo
+  href: ASE_Assignment_Demo.IAppCanvas.html
+  name: IAppCanvas
+  nameWithType: IAppCanvas
+  fullName: ASE_Assignment_Demo.IAppCanvas
+- uid: ASE_Assignment_Demo
+  commentId: N:ASE_Assignment_Demo
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo
+  nameWithType: ASE_Assignment_Demo
+  fullName: ASE_Assignment_Demo

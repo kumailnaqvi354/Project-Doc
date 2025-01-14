@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Factories
+  commentId: N:ASE_Assignment_Demo.Factories
+  id: ASE_Assignment_Demo.Factories
+  children:
+  - ASE_Assignment_Demo.Factories.CommandFactory
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Demo.Factories
+  nameWithType: ASE_Assignment_Demo.Factories
+  fullName: ASE_Assignment_Demo.Factories
+  type: Namespace
+  assemblies:
+  - ASE Assignment Demo
+references:
+- uid: ASE_Assignment_Demo.Factories.CommandFactory
+  commentId: T:ASE_Assignment_Demo.Factories.CommandFactory
+  parent: ASE_Assignment_Demo.Factories
+  href: ASE_Assignment_Demo.Factories.CommandFactory.html
+  name: CommandFactory
+  nameWithType: CommandFactory
+  fullName: ASE_Assignment_Demo.Factories.CommandFactory
+- uid: ASE_Assignment_Demo.Factories
+  commentId: N:ASE_Assignment_Demo.Factories
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Factories
+  nameWithType: ASE_Assignment_Demo.Factories
+  fullName: ASE_Assignment_Demo.Factories
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Factories
+    name: Factories
+    href: ASE_Assignment_Demo.Factories.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Factories
+    name: Factories
+    href: ASE_Assignment_Demo.Factories.html

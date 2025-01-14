@@ -1,0 +1,105 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  commentId: T:ASE_Assignment_Demo.Interfaces.ICustomCommand
+  id: ICustomCommand
+  parent: ASE_Assignment_Demo.Interfaces
+  children:
+  - ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  langs:
+  - csharp
+  - vb
+  name: ICustomCommand
+  nameWithType: ICustomCommand
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  type: Interface
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/ICustomCommand.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: ICustomCommand
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/ICustomCommand.cs
+    startLine: 6
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo.Interfaces
+  summary: Represents a command that can be executed on a canvas.
+  example: []
+  syntax:
+    content: public interface ICustomCommand
+    content.vb: Public Interface ICustomCommand
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  commentId: M:ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  id: Execute(ASE_Assignment_Demo.IAppCanvas)
+  parent: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  langs:
+  - csharp
+  - vb
+  name: Execute(IAppCanvas)
+  nameWithType: ICustomCommand.Execute(IAppCanvas)
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/ICustomCommand.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Execute
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/ICustomCommand.cs
+    startLine: 12
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo.Interfaces
+  summary: Executes the command on the specified canvas.
+  example: []
+  syntax:
+    content: void Execute(IAppCanvas canvas)
+    parameters:
+    - id: canvas
+      type: ASE_Assignment_Demo.IAppCanvas
+      description: The canvas on which the command is executed.
+    content.vb: Sub Execute(canvas As IAppCanvas)
+  overload: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute*
+references:
+- uid: ASE_Assignment_Demo.Interfaces
+  commentId: N:ASE_Assignment_Demo.Interfaces
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Interfaces
+  nameWithType: ASE_Assignment_Demo.Interfaces
+  fullName: ASE_Assignment_Demo.Interfaces
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute*
+  commentId: Overload:ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute
+  href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  name: Execute
+  nameWithType: ICustomCommand.Execute
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute
+- uid: ASE_Assignment_Demo.IAppCanvas
+  commentId: T:ASE_Assignment_Demo.IAppCanvas
+  parent: ASE_Assignment_Demo
+  href: ASE_Assignment_Demo.IAppCanvas.html
+  name: IAppCanvas
+  nameWithType: IAppCanvas
+  fullName: ASE_Assignment_Demo.IAppCanvas
+- uid: ASE_Assignment_Demo
+  commentId: N:ASE_Assignment_Demo
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo
+  nameWithType: ASE_Assignment_Demo
+  fullName: ASE_Assignment_Demo

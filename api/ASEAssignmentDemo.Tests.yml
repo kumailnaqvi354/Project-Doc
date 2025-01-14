@@ -1,0 +1,30 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASEAssignmentDemo.Tests
+  commentId: N:ASEAssignmentDemo.Tests
+  id: ASEAssignmentDemo.Tests
+  children:
+  - ASEAssignmentDemo.Tests.AppCanvasTests
+  - ASEAssignmentDemo.Tests.UnitTest1
+  langs:
+  - csharp
+  - vb
+  name: ASEAssignmentDemo.Tests
+  nameWithType: ASEAssignmentDemo.Tests
+  fullName: ASEAssignmentDemo.Tests
+  type: Namespace
+  assemblies:
+  - ASEAssignmentDemo.Tests
+references:
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests
+  commentId: T:ASEAssignmentDemo.Tests.AppCanvasTests
+  href: ASEAssignmentDemo.Tests.AppCanvasTests.html
+  name: AppCanvasTests
+  nameWithType: AppCanvasTests
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests
+- uid: ASEAssignmentDemo.Tests.UnitTest1
+  commentId: T:ASEAssignmentDemo.Tests.UnitTest1
+  href: ASEAssignmentDemo.Tests.UnitTest1.html
+  name: UnitTest1
+  nameWithType: UnitTest1
+  fullName: ASEAssignmentDemo.Tests.UnitTest1

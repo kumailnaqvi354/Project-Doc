@@ -1,0 +1,582 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.IAppCanvas
+  commentId: T:ASE_Assignment_Demo.IAppCanvas
+  id: IAppCanvas
+  parent: ASE_Assignment_Demo
+  children:
+  - ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  - ASE_Assignment_Demo.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  - ASE_Assignment_Demo.IAppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  - ASE_Assignment_Demo.IAppCanvas.Reset
+  - ASE_Assignment_Demo.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  - ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  - ASE_Assignment_Demo.IAppCanvas.Tri(System.Int32,System.Int32)
+  - ASE_Assignment_Demo.IAppCanvas.ValidatePosition(System.Int32,System.Int32)
+  - ASE_Assignment_Demo.IAppCanvas.WriteText(System.String)
+  - ASE_Assignment_Demo.IAppCanvas.getBitmap
+  langs:
+  - csharp
+  - vb
+  name: IAppCanvas
+  nameWithType: IAppCanvas
+  fullName: ASE_Assignment_Demo.IAppCanvas
+  type: Interface
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: IAppCanvas
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 7
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Extends the base interface with additional functionalities for canvas operations.
+  example: []
+  syntax:
+    content: public interface IAppCanvas
+    content.vb: Public Interface IAppCanvas
+- uid: ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  id: SetGraphics(System.Drawing.Graphics)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: SetGraphics(Graphics)
+  nameWithType: IAppCanvas.SetGraphics(Graphics)
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: SetGraphics
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 13
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Sets the graphics context for the canvas.
+  example: []
+  syntax:
+    content: void SetGraphics(Graphics graphics)
+    parameters:
+    - id: graphics
+      type: System.Drawing.Graphics
+      description: The graphics object used for rendering.
+    content.vb: Sub SetGraphics(graphics As Graphics)
+  overload: ASE_Assignment_Demo.IAppCanvas.SetGraphics*
+- uid: ASE_Assignment_Demo.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  id: SetColour(System.Int32,System.Int32,System.Int32)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: SetColour(int, int, int)
+  nameWithType: IAppCanvas.SetColour(int, int, int)
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetColour(int, int, int)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: SetColour
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 21
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Sets the pen color using RGB values.
+  example: []
+  syntax:
+    content: void SetColour(int red, int green, int blue)
+    parameters:
+    - id: red
+      type: System.Int32
+      description: Red component (0-255).
+    - id: green
+      type: System.Int32
+      description: Green component (0-255).
+    - id: blue
+      type: System.Int32
+      description: Blue component (0-255).
+    content.vb: Sub SetColour(red As Integer, green As Integer, blue As Integer)
+  overload: ASE_Assignment_Demo.IAppCanvas.SetColour*
+  nameWithType.vb: IAppCanvas.SetColour(Integer, Integer, Integer)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.SetColour(Integer, Integer, Integer)
+  name.vb: SetColour(Integer, Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.Reset
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Reset
+  id: Reset
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: Reset()
+  nameWithType: IAppCanvas.Reset()
+  fullName: ASE_Assignment_Demo.IAppCanvas.Reset()
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Reset
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 26
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Resets the canvas position to (0, 0).
+  example: []
+  syntax:
+    content: void Reset()
+    content.vb: Sub Reset()
+  overload: ASE_Assignment_Demo.IAppCanvas.Reset*
+- uid: ASE_Assignment_Demo.IAppCanvas.getBitmap
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.getBitmap
+  id: getBitmap
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: getBitmap()
+  nameWithType: IAppCanvas.getBitmap()
+  fullName: ASE_Assignment_Demo.IAppCanvas.getBitmap()
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: getBitmap
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 32
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Retrieves the current bitmap of the canvas.
+  example: []
+  syntax:
+    content: object getBitmap()
+    return:
+      type: System.Object
+      description: The bitmap object representing the current state of the canvas.
+    content.vb: Function getBitmap() As Object
+  overload: ASE_Assignment_Demo.IAppCanvas.getBitmap*
+- uid: ASE_Assignment_Demo.IAppCanvas.WriteText(System.String)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.WriteText(System.String)
+  id: WriteText(System.String)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: WriteText(string)
+  nameWithType: IAppCanvas.WriteText(string)
+  fullName: ASE_Assignment_Demo.IAppCanvas.WriteText(string)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: WriteText
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 38
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Writes text at the current position on the canvas.
+  example: []
+  syntax:
+    content: void WriteText(string text)
+    parameters:
+    - id: text
+      type: System.String
+      description: The text to be written.
+    content.vb: Sub WriteText(text As String)
+  overload: ASE_Assignment_Demo.IAppCanvas.WriteText*
+  nameWithType.vb: IAppCanvas.WriteText(String)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.WriteText(String)
+  name.vb: WriteText(String)
+- uid: ASE_Assignment_Demo.IAppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  id: Rect(System.Int32,System.Int32,System.Boolean)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: Rect(int, int, bool)
+  nameWithType: IAppCanvas.Rect(int, int, bool)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Rect(int, int, bool)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Rect
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 46
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Draws a rectangle at the current position on the canvas.
+  example: []
+  syntax:
+    content: void Rect(int width, int height, bool filled)
+    parameters:
+    - id: width
+      type: System.Int32
+      description: The width of the rectangle.
+    - id: height
+      type: System.Int32
+      description: The height of the rectangle.
+    - id: filled
+      type: System.Boolean
+      description: Whether the rectangle should be filled (true) or just outlined (false).
+    content.vb: Sub Rect(width As Integer, height As Integer, filled As Boolean)
+  overload: ASE_Assignment_Demo.IAppCanvas.Rect*
+  nameWithType.vb: IAppCanvas.Rect(Integer, Integer, Boolean)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Rect(Integer, Integer, Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+- uid: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(System.Int32,System.Int32)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.ValidatePosition(System.Int32,System.Int32)
+  id: ValidatePosition(System.Int32,System.Int32)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: ValidatePosition(int, int)
+  nameWithType: IAppCanvas.ValidatePosition(int, int)
+  fullName: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(int, int)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: ValidatePosition
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 53
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Validates whether the given position is within the bounds of the canvas.
+  example: []
+  syntax:
+    content: void ValidatePosition(int x, int y)
+    parameters:
+    - id: x
+      type: System.Int32
+      description: The X coordinate of the position to validate.
+    - id: y
+      type: System.Int32
+      description: The Y coordinate of the position to validate.
+    content.vb: Sub ValidatePosition(x As Integer, y As Integer)
+  overload: ASE_Assignment_Demo.IAppCanvas.ValidatePosition*
+  nameWithType.vb: IAppCanvas.ValidatePosition(Integer, Integer)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(Integer, Integer)
+  name.vb: ValidatePosition(Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  id: Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: Circle(Real, bool)
+  nameWithType: IAppCanvas.Circle(Real, bool)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, bool)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Circle
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 60
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Draws a circle at the current position on the canvas.
+  example: []
+  syntax:
+    content: void Circle(Real radius, bool filled)
+    parameters:
+    - id: radius
+      type: ASE_Assignment_Demo.Dynamic.Real
+      description: The radius of the circle.
+    - id: filled
+      type: System.Boolean
+      description: Whether the circle should be filled.
+    content.vb: Sub Circle(radius As Real, filled As Boolean)
+  overload: ASE_Assignment_Demo.IAppCanvas.Circle*
+  nameWithType.vb: IAppCanvas.Circle(Real, Boolean)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, Boolean)
+  name.vb: Circle(Real, Boolean)
+- uid: ASE_Assignment_Demo.IAppCanvas.Tri(System.Int32,System.Int32)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Tri(System.Int32,System.Int32)
+  id: Tri(System.Int32,System.Int32)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: Tri(int, int)
+  nameWithType: IAppCanvas.Tri(int, int)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Tri(int, int)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: Tri
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 67
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Draws a triangle at the current position on the canvas.
+  example: []
+  syntax:
+    content: void Tri(int width, int height)
+    parameters:
+    - id: width
+      type: System.Int32
+      description: The width of the triangle.
+    - id: height
+      type: System.Int32
+      description: The height of the triangle.
+    content.vb: Sub Tri(width As Integer, height As Integer)
+  overload: ASE_Assignment_Demo.IAppCanvas.Tri*
+  nameWithType.vb: IAppCanvas.Tri(Integer, Integer)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Tri(Integer, Integer)
+  name.vb: Tri(Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  id: MoveTo(System.Int32,System.Int32)
+  parent: ASE_Assignment_Demo.IAppCanvas
+  langs:
+  - csharp
+  - vb
+  name: MoveTo(int, int)
+  nameWithType: IAppCanvas.MoveTo(int, int)
+  fullName: ASE_Assignment_Demo.IAppCanvas.MoveTo(int, int)
+  type: Method
+  source:
+    remote:
+      path: ASE Assignment Demo/Interface/IAppCanvas.cs
+      branch: variableAndCustomFunctions
+      repo: git@github.com:ASE-Classroom/ase-demo-assignment-kumailnaqvi354.git
+    id: MoveTo
+    path: ../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo/Interface/IAppCanvas.cs
+    startLine: 74
+  assemblies:
+  - ASE Assignment Demo
+  namespace: ASE_Assignment_Demo
+  summary: Moves the drawing position to the specified coordinates on the canvas.
+  example: []
+  syntax:
+    content: void MoveTo(int x, int y)
+    parameters:
+    - id: x
+      type: System.Int32
+      description: The X coordinate to move to.
+    - id: y
+      type: System.Int32
+      description: The Y coordinate to move to.
+    content.vb: Sub MoveTo(x As Integer, y As Integer)
+  overload: ASE_Assignment_Demo.IAppCanvas.MoveTo*
+  nameWithType.vb: IAppCanvas.MoveTo(Integer, Integer)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.MoveTo(Integer, Integer)
+  name.vb: MoveTo(Integer, Integer)
+references:
+- uid: ASE_Assignment_Demo
+  commentId: N:ASE_Assignment_Demo
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo
+  nameWithType: ASE_Assignment_Demo
+  fullName: ASE_Assignment_Demo
+- uid: ASE_Assignment_Demo.IAppCanvas.SetGraphics*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.SetGraphics
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetGraphics_System_Drawing_Graphics_
+  name: SetGraphics
+  nameWithType: IAppCanvas.SetGraphics
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetGraphics
+- uid: System.Drawing.Graphics
+  commentId: T:System.Drawing.Graphics
+  parent: System.Drawing
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.drawing.graphics
+  name: Graphics
+  nameWithType: Graphics
+  fullName: System.Drawing.Graphics
+- uid: System.Drawing
+  commentId: N:System.Drawing
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System.Drawing
+  nameWithType: System.Drawing
+  fullName: System.Drawing
+  spec.csharp:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Drawing
+    name: Drawing
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.drawing
+  spec.vb:
+  - uid: System
+    name: System
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system
+  - name: .
+  - uid: System.Drawing
+    name: Drawing
+    isExternal: true
+    href: https://learn.microsoft.com/dotnet/api/system.drawing
+- uid: ASE_Assignment_Demo.IAppCanvas.SetColour*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.SetColour
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  name: SetColour
+  nameWithType: IAppCanvas.SetColour
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetColour
+- uid: System.Int32
+  commentId: T:System.Int32
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.int32
+  name: int
+  nameWithType: int
+  fullName: int
+  nameWithType.vb: Integer
+  fullName.vb: Integer
+  name.vb: Integer
+- uid: System
+  commentId: N:System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system
+  name: System
+  nameWithType: System
+  fullName: System
+- uid: ASE_Assignment_Demo.IAppCanvas.Reset*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Reset
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Reset
+  name: Reset
+  nameWithType: IAppCanvas.Reset
+  fullName: ASE_Assignment_Demo.IAppCanvas.Reset
+- uid: ASE_Assignment_Demo.IAppCanvas.getBitmap*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.getBitmap
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_getBitmap
+  name: getBitmap
+  nameWithType: IAppCanvas.getBitmap
+  fullName: ASE_Assignment_Demo.IAppCanvas.getBitmap
+- uid: System.Object
+  commentId: T:System.Object
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.object
+  name: object
+  nameWithType: object
+  fullName: object
+  nameWithType.vb: Object
+  fullName.vb: Object
+  name.vb: Object
+- uid: ASE_Assignment_Demo.IAppCanvas.WriteText*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.WriteText
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_WriteText_System_String_
+  name: WriteText
+  nameWithType: IAppCanvas.WriteText
+  fullName: ASE_Assignment_Demo.IAppCanvas.WriteText
+- uid: System.String
+  commentId: T:System.String
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.string
+  name: string
+  nameWithType: string
+  fullName: string
+  nameWithType.vb: String
+  fullName.vb: String
+  name.vb: String
+- uid: ASE_Assignment_Demo.IAppCanvas.Rect*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Rect
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  name: Rect
+  nameWithType: IAppCanvas.Rect
+  fullName: ASE_Assignment_Demo.IAppCanvas.Rect
+- uid: System.Boolean
+  commentId: T:System.Boolean
+  parent: System
+  isExternal: true
+  href: https://learn.microsoft.com/dotnet/api/system.boolean
+  name: bool
+  nameWithType: bool
+  fullName: bool
+  nameWithType.vb: Boolean
+  fullName.vb: Boolean
+  name.vb: Boolean
+- uid: ASE_Assignment_Demo.IAppCanvas.ValidatePosition*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.ValidatePosition
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_ValidatePosition_System_Int32_System_Int32_
+  name: ValidatePosition
+  nameWithType: IAppCanvas.ValidatePosition
+  fullName: ASE_Assignment_Demo.IAppCanvas.ValidatePosition
+- uid: ASE_Assignment_Demo.IAppCanvas.Circle*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Circle
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Circle_ASE_Assignment_Demo_Dynamic_Real_System_Boolean_
+  name: Circle
+  nameWithType: IAppCanvas.Circle
+  fullName: ASE_Assignment_Demo.IAppCanvas.Circle
+- uid: ASE_Assignment_Demo.Dynamic.Real
+  commentId: T:ASE_Assignment_Demo.Dynamic.Real
+  parent: ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.Dynamic.Real.html
+  name: Real
+  nameWithType: Real
+  fullName: ASE_Assignment_Demo.Dynamic.Real
+- uid: ASE_Assignment_Demo.Dynamic
+  commentId: N:ASE_Assignment_Demo.Dynamic
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Dynamic
+  nameWithType: ASE_Assignment_Demo.Dynamic
+  fullName: ASE_Assignment_Demo.Dynamic
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Dynamic
+    name: Dynamic
+    href: ASE_Assignment_Demo.Dynamic.html
+- uid: ASE_Assignment_Demo.IAppCanvas.Tri*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Tri
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Tri_System_Int32_System_Int32_
+  name: Tri
+  nameWithType: IAppCanvas.Tri
+  fullName: ASE_Assignment_Demo.IAppCanvas.Tri
+- uid: ASE_Assignment_Demo.IAppCanvas.MoveTo*
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.MoveTo
+  href: ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_MoveTo_System_Int32_System_Int32_
+  name: MoveTo
+  nameWithType: IAppCanvas.MoveTo
+  fullName: ASE_Assignment_Demo.IAppCanvas.MoveTo

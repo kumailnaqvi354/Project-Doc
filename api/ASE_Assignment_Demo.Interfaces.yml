@@ -1,0 +1,46 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Interfaces
+  commentId: N:ASE_Assignment_Demo.Interfaces
+  id: ASE_Assignment_Demo.Interfaces
+  children:
+  - ASE_Assignment_Demo.Interfaces.ICustomCommand
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Demo.Interfaces
+  nameWithType: ASE_Assignment_Demo.Interfaces
+  fullName: ASE_Assignment_Demo.Interfaces
+  type: Namespace
+  assemblies:
+  - ASE Assignment Demo
+references:
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  commentId: T:ASE_Assignment_Demo.Interfaces.ICustomCommand
+  parent: ASE_Assignment_Demo.Interfaces
+  href: ASE_Assignment_Demo.Interfaces.ICustomCommand.html
+  name: ICustomCommand
+  nameWithType: ICustomCommand
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand
+- uid: ASE_Assignment_Demo.Interfaces
+  commentId: N:ASE_Assignment_Demo.Interfaces
+  href: ASE_Assignment_Demo.html
+  name: ASE_Assignment_Demo.Interfaces
+  nameWithType: ASE_Assignment_Demo.Interfaces
+  fullName: ASE_Assignment_Demo.Interfaces
+  spec.csharp:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html
+  spec.vb:
+  - uid: ASE_Assignment_Demo
+    name: ASE_Assignment_Demo
+    href: ASE_Assignment_Demo.html
+  - name: .
+  - uid: ASE_Assignment_Demo.Interfaces
+    name: Interfaces
+    href: ASE_Assignment_Demo.Interfaces.html

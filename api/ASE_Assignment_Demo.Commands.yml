@@ -1,0 +1,58 @@
+### YamlMime:ManagedReference
+items:
+- uid: ASE_Assignment_Demo.Commands
+  commentId: N:ASE_Assignment_Demo.Commands
+  id: ASE_Assignment_Demo.Commands
+  children:
+  - ASE_Assignment_Demo.Commands.CircleCommand
+  - ASE_Assignment_Demo.Commands.MoveToCommand
+  - ASE_Assignment_Demo.Commands.RectCommand
+  - ASE_Assignment_Demo.Commands.SetPenCommand
+  - ASE_Assignment_Demo.Commands.TriangleCommand
+  - ASE_Assignment_Demo.Commands.WhileCommand
+  langs:
+  - csharp
+  - vb
+  name: ASE_Assignment_Demo.Commands
+  nameWithType: ASE_Assignment_Demo.Commands
+  fullName: ASE_Assignment_Demo.Commands
+  type: Namespace
+  assemblies:
+  - ASE Assignment Demo
+references:
+- uid: ASE_Assignment_Demo.Commands.CircleCommand
+  commentId: T:ASE_Assignment_Demo.Commands.CircleCommand
+  href: ASE_Assignment_Demo.Commands.CircleCommand.html
+  name: CircleCommand
+  nameWithType: CircleCommand
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand
+  commentId: T:ASE_Assignment_Demo.Commands.MoveToCommand
+  href: ASE_Assignment_Demo.Commands.MoveToCommand.html
+  name: MoveToCommand
+  nameWithType: MoveToCommand
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand
+- uid: ASE_Assignment_Demo.Commands.RectCommand
+  commentId: T:ASE_Assignment_Demo.Commands.RectCommand
+  href: ASE_Assignment_Demo.Commands.RectCommand.html
+  name: RectCommand
+  nameWithType: RectCommand
+  fullName: ASE_Assignment_Demo.Commands.RectCommand
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand
+  commentId: T:ASE_Assignment_Demo.Commands.SetPenCommand
+  href: ASE_Assignment_Demo.Commands.SetPenCommand.html
+  name: SetPenCommand
+  nameWithType: SetPenCommand
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand
+  commentId: T:ASE_Assignment_Demo.Commands.TriangleCommand
+  href: ASE_Assignment_Demo.Commands.TriangleCommand.html
+  name: TriangleCommand
+  nameWithType: TriangleCommand
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand
+- uid: ASE_Assignment_Demo.Commands.WhileCommand
+  commentId: T:ASE_Assignment_Demo.Commands.WhileCommand
+  href: ASE_Assignment_Demo.Commands.WhileCommand.html
+  name: WhileCommand
+  nameWithType: WhileCommand
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand
