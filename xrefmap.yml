@@ -1,0 +1,1055 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: ASEAssignmentDemo.Tests
+  name: ASEAssignmentDemo.Tests
+  href: api/ASEAssignmentDemo.Tests.html
+  commentId: N:ASEAssignmentDemo.Tests
+  fullName: ASEAssignmentDemo.Tests
+  nameWithType: ASEAssignmentDemo.Tests
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests
+  name: AppCanvasTests
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html
+  commentId: T:ASEAssignmentDemo.Tests.AppCanvasTests
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests
+  nameWithType: AppCanvasTests
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle
+  name: Circle_ValidRadius_DrawsCircle()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Circle_ValidRadius_DrawsCircle
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle()
+  nameWithType: AppCanvasTests.Circle_ValidRadius_DrawsCircle()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle*
+  name: Circle_ValidRadius_DrawsCircle
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Circle_ValidRadius_DrawsCircle_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Circle_ValidRadius_DrawsCircle
+  nameWithType: AppCanvasTests.Circle_ValidRadius_DrawsCircle
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  name: DrawTo_ValidPosition_UpdatesPositionAndDrawsLine()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine()
+  nameWithType: AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine*
+  name: DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_DrawTo_ValidPosition_UpdatesPositionAndDrawsLine_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+  nameWithType: AppCanvasTests.DrawTo_ValidPosition_UpdatesPositionAndDrawsLine
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition
+  name: MoveTo_ValidCoordinates_UpdatesPenPosition()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_MoveTo_ValidCoordinates_UpdatesPenPosition
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition()
+  nameWithType: AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition*
+  name: MoveTo_ValidCoordinates_UpdatesPenPosition
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_MoveTo_ValidCoordinates_UpdatesPenPosition_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition
+  nameWithType: AppCanvasTests.MoveTo_ValidCoordinates_UpdatesPenPosition
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  name: MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas()
+  nameWithType: AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas*
+  name: MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+  nameWithType: AppCanvasTests.MultilineProgram_ExecutesMultipleCommands_CorrectlyUpdatesCanvas
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException
+  name: Triangle_InvalidDimensions_ThrowsException()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_InvalidDimensions_ThrowsException
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException()
+  nameWithType: AppCanvasTests.Triangle_InvalidDimensions_ThrowsException()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException*
+  name: Triangle_InvalidDimensions_ThrowsException
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_InvalidDimensions_ThrowsException_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_InvalidDimensions_ThrowsException
+  nameWithType: AppCanvasTests.Triangle_InvalidDimensions_ThrowsException
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle
+  name: Triangle_ValidDimensions_DrawsTriangle()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_ValidDimensions_DrawsTriangle
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle()
+  nameWithType: AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle*
+  name: Triangle_ValidDimensions_DrawsTriangle
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_ValidDimensions_DrawsTriangle_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle
+  nameWithType: AppCanvasTests.Triangle_ValidDimensions_DrawsTriangle
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle
+  name: Triangle_WithPenColorChange_DrawsTriangle()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_WithPenColorChange_DrawsTriangle
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle()
+  nameWithType: AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle*
+  name: Triangle_WithPenColorChange_DrawsTriangle
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_Triangle_WithPenColorChange_DrawsTriangle_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle
+  nameWithType: AppCanvasTests.Triangle_WithPenColorChange_DrawsTriangle
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas
+  name: WriteText_ValidText_DrawsTextOnCanvas()
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_WriteText_ValidText_DrawsTextOnCanvas
+  commentId: M:ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas()
+  nameWithType: AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas()
+- uid: ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas*
+  name: WriteText_ValidText_DrawsTextOnCanvas
+  href: api/ASEAssignmentDemo.Tests.AppCanvasTests.html#ASEAssignmentDemo_Tests_AppCanvasTests_WriteText_ValidText_DrawsTextOnCanvas_
+  commentId: Overload:ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas
+  nameWithType: AppCanvasTests.WriteText_ValidText_DrawsTextOnCanvas
+- uid: ASEAssignmentDemo.Tests.UnitTest1
+  name: UnitTest1
+  href: api/ASEAssignmentDemo.Tests.UnitTest1.html
+  commentId: T:ASEAssignmentDemo.Tests.UnitTest1
+  fullName: ASEAssignmentDemo.Tests.UnitTest1
+  nameWithType: UnitTest1
+- uid: ASEAssignmentDemo.Tests.UnitTest1.Test1
+  name: Test1()
+  href: api/ASEAssignmentDemo.Tests.UnitTest1.html#ASEAssignmentDemo_Tests_UnitTest1_Test1
+  commentId: M:ASEAssignmentDemo.Tests.UnitTest1.Test1
+  fullName: ASEAssignmentDemo.Tests.UnitTest1.Test1()
+  nameWithType: UnitTest1.Test1()
+- uid: ASEAssignmentDemo.Tests.UnitTest1.Test1*
+  name: Test1
+  href: api/ASEAssignmentDemo.Tests.UnitTest1.html#ASEAssignmentDemo_Tests_UnitTest1_Test1_
+  commentId: Overload:ASEAssignmentDemo.Tests.UnitTest1.Test1
+  isSpec: "True"
+  fullName: ASEAssignmentDemo.Tests.UnitTest1.Test1
+  nameWithType: UnitTest1.Test1
+- uid: ASE_Assignment_Demo
+  name: ASE_Assignment_Demo
+  href: api/ASE_Assignment_Demo.html
+  commentId: N:ASE_Assignment_Demo
+  fullName: ASE_Assignment_Demo
+  nameWithType: ASE_Assignment_Demo
+- uid: ASE_Assignment_Demo.AppCanvas
+  name: AppCanvas
+  href: api/ASE_Assignment_Demo.AppCanvas.html
+  commentId: T:ASE_Assignment_Demo.AppCanvas
+  fullName: ASE_Assignment_Demo.AppCanvas
+  nameWithType: AppCanvas
+- uid: ASE_Assignment_Demo.AppCanvas.#ctor
+  name: AppCanvas()
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas__ctor
+  commentId: M:ASE_Assignment_Demo.AppCanvas.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Demo.AppCanvas.AppCanvas()
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.New()
+  nameWithType: AppCanvas.AppCanvas()
+  nameWithType.vb: AppCanvas.New()
+- uid: ASE_Assignment_Demo.AppCanvas.#ctor*
+  name: AppCanvas
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas__ctor_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.AppCanvas.AppCanvas
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.New
+  nameWithType: AppCanvas.AppCanvas
+  nameWithType.vb: AppCanvas.New
+- uid: ASE_Assignment_Demo.AppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name: Circle(Real, bool)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Circle_ASE_Assignment_Demo_Dynamic_Real_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name.vb: Circle(Real, Boolean)
+  fullName: ASE_Assignment_Demo.AppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, bool)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, Boolean)
+  nameWithType: AppCanvas.Circle(Real, bool)
+  nameWithType.vb: AppCanvas.Circle(Real, Boolean)
+- uid: ASE_Assignment_Demo.AppCanvas.Circle*
+  name: Circle
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Circle_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Circle
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Circle
+  nameWithType: AppCanvas.Circle
+- uid: ASE_Assignment_Demo.AppCanvas.Clear
+  name: Clear()
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Clear
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Clear
+  fullName: ASE_Assignment_Demo.AppCanvas.Clear()
+  nameWithType: AppCanvas.Clear()
+- uid: ASE_Assignment_Demo.AppCanvas.Clear*
+  name: Clear
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Clear_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Clear
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Clear
+  nameWithType: AppCanvas.Clear
+- uid: ASE_Assignment_Demo.AppCanvas.Dispose
+  name: Dispose()
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Dispose
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Dispose
+  fullName: ASE_Assignment_Demo.AppCanvas.Dispose()
+  nameWithType: AppCanvas.Dispose()
+- uid: ASE_Assignment_Demo.AppCanvas.Dispose*
+  name: Dispose
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Dispose_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Dispose
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Dispose
+  nameWithType: AppCanvas.Dispose
+- uid: ASE_Assignment_Demo.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name: DrawTo(int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_DrawTo_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.DrawTo(System.Int32,System.Int32)
+  name.vb: DrawTo(Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.DrawTo(int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.DrawTo(Integer, Integer)
+  nameWithType: AppCanvas.DrawTo(int, int)
+  nameWithType.vb: AppCanvas.DrawTo(Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.DrawTo*
+  name: DrawTo
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_DrawTo_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.DrawTo
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.DrawTo
+  nameWithType: AppCanvas.DrawTo
+- uid: ASE_Assignment_Demo.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.MoveTo(int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.MoveTo(Integer, Integer)
+  nameWithType: AppCanvas.MoveTo(int, int)
+  nameWithType.vb: AppCanvas.MoveTo(Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.MoveTo*
+  name: MoveTo
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_MoveTo_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.MoveTo
+  nameWithType: AppCanvas.MoveTo
+- uid: ASE_Assignment_Demo.AppCanvas.PenColour
+  name: PenColour
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_PenColour
+  commentId: P:ASE_Assignment_Demo.AppCanvas.PenColour
+  fullName: ASE_Assignment_Demo.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Assignment_Demo.AppCanvas.PenColour*
+  name: PenColour
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_PenColour_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.PenColour
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.PenColour
+  nameWithType: AppCanvas.PenColour
+- uid: ASE_Assignment_Demo.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASE_Assignment_Demo.AppCanvas.Rect(int, int, bool)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: AppCanvas.Rect(int, int, bool)
+  nameWithType.vb: AppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASE_Assignment_Demo.AppCanvas.Rect*
+  name: Rect
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Rect_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Rect
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Rect
+  nameWithType: AppCanvas.Rect
+- uid: ASE_Assignment_Demo.AppCanvas.Reset
+  name: Reset()
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Reset
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Reset
+  fullName: ASE_Assignment_Demo.AppCanvas.Reset()
+  nameWithType: AppCanvas.Reset()
+- uid: ASE_Assignment_Demo.AppCanvas.Reset*
+  name: Reset
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Reset_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Reset
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Reset
+  nameWithType: AppCanvas.Reset
+- uid: ASE_Assignment_Demo.AppCanvas.Set(System.Int32,System.Int32)
+  name: Set(int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Set_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Set(System.Int32,System.Int32)
+  name.vb: Set(Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.Set(int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.Set(Integer, Integer)
+  nameWithType: AppCanvas.Set(int, int)
+  nameWithType.vb: AppCanvas.Set(Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.Set*
+  name: Set
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Set_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Set
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Set
+  nameWithType: AppCanvas.Set
+- uid: ASE_Assignment_Demo.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.SetColour(int, int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: AppCanvas.SetColour(int, int, int)
+  nameWithType.vb: AppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.SetColour*
+  name: SetColour
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_SetColour_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.SetColour
+  nameWithType: AppCanvas.SetColour
+- uid: ASE_Assignment_Demo.AppCanvas.SetGraphics(System.Drawing.Graphics)
+  name: SetGraphics(Graphics)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_SetGraphics_System_Drawing_Graphics_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.SetGraphics(System.Drawing.Graphics)
+  fullName: ASE_Assignment_Demo.AppCanvas.SetGraphics(System.Drawing.Graphics)
+  nameWithType: AppCanvas.SetGraphics(Graphics)
+- uid: ASE_Assignment_Demo.AppCanvas.SetGraphics*
+  name: SetGraphics
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_SetGraphics_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.SetGraphics
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.SetGraphics
+  nameWithType: AppCanvas.SetGraphics
+- uid: ASE_Assignment_Demo.AppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.Tri(int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.Tri(Integer, Integer)
+  nameWithType: AppCanvas.Tri(int, int)
+  nameWithType.vb: AppCanvas.Tri(Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.Tri*
+  name: Tri
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Tri_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Tri
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Tri
+  nameWithType: AppCanvas.Tri
+- uid: ASE_Assignment_Demo.AppCanvas.ValidatePosition(System.Int32,System.Int32)
+  name: ValidatePosition(int, int)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_ValidatePosition_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.ValidatePosition(System.Int32,System.Int32)
+  name.vb: ValidatePosition(Integer, Integer)
+  fullName: ASE_Assignment_Demo.AppCanvas.ValidatePosition(int, int)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.ValidatePosition(Integer, Integer)
+  nameWithType: AppCanvas.ValidatePosition(int, int)
+  nameWithType.vb: AppCanvas.ValidatePosition(Integer, Integer)
+- uid: ASE_Assignment_Demo.AppCanvas.ValidatePosition*
+  name: ValidatePosition
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_ValidatePosition_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.ValidatePosition
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.ValidatePosition
+  nameWithType: AppCanvas.ValidatePosition
+- uid: ASE_Assignment_Demo.AppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_WriteText_System_String_
+  commentId: M:ASE_Assignment_Demo.AppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASE_Assignment_Demo.AppCanvas.WriteText(string)
+  fullName.vb: ASE_Assignment_Demo.AppCanvas.WriteText(String)
+  nameWithType: AppCanvas.WriteText(string)
+  nameWithType.vb: AppCanvas.WriteText(String)
+- uid: ASE_Assignment_Demo.AppCanvas.WriteText*
+  name: WriteText
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_WriteText_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.WriteText
+  nameWithType: AppCanvas.WriteText
+- uid: ASE_Assignment_Demo.AppCanvas.Xpos
+  name: Xpos
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Xpos
+  commentId: P:ASE_Assignment_Demo.AppCanvas.Xpos
+  fullName: ASE_Assignment_Demo.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Assignment_Demo.AppCanvas.Xpos*
+  name: Xpos
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Xpos_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Xpos
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Xpos
+  nameWithType: AppCanvas.Xpos
+- uid: ASE_Assignment_Demo.AppCanvas.Ypos
+  name: Ypos
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Ypos
+  commentId: P:ASE_Assignment_Demo.AppCanvas.Ypos
+  fullName: ASE_Assignment_Demo.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Assignment_Demo.AppCanvas.Ypos*
+  name: Ypos
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_Ypos_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.Ypos
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.Ypos
+  nameWithType: AppCanvas.Ypos
+- uid: ASE_Assignment_Demo.AppCanvas.getBitmap
+  name: getBitmap()
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_getBitmap
+  commentId: M:ASE_Assignment_Demo.AppCanvas.getBitmap
+  fullName: ASE_Assignment_Demo.AppCanvas.getBitmap()
+  nameWithType: AppCanvas.getBitmap()
+- uid: ASE_Assignment_Demo.AppCanvas.getBitmap*
+  name: getBitmap
+  href: api/ASE_Assignment_Demo.AppCanvas.html#ASE_Assignment_Demo_AppCanvas_getBitmap_
+  commentId: Overload:ASE_Assignment_Demo.AppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.AppCanvas.getBitmap
+  nameWithType: AppCanvas.getBitmap
+- uid: ASE_Assignment_Demo.Commands
+  name: ASE_Assignment_Demo.Commands
+  href: api/ASE_Assignment_Demo.Commands.html
+  commentId: N:ASE_Assignment_Demo.Commands
+  fullName: ASE_Assignment_Demo.Commands
+  nameWithType: ASE_Assignment_Demo.Commands
+- uid: ASE_Assignment_Demo.Commands.CircleCommand
+  name: CircleCommand
+  href: api/ASE_Assignment_Demo.Commands.CircleCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.CircleCommand
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand
+  nameWithType: CircleCommand
+- uid: ASE_Assignment_Demo.Commands.CircleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name: CircleCommand(Real, bool)
+  href: api/ASE_Assignment_Demo.Commands.CircleCommand.html#ASE_Assignment_Demo_Commands_CircleCommand__ctor_ASE_Assignment_Demo_Dynamic_Real_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.Commands.CircleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name.vb: New(Real, Boolean)
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand.CircleCommand(ASE_Assignment_Demo.Dynamic.Real, bool)
+  fullName.vb: ASE_Assignment_Demo.Commands.CircleCommand.New(ASE_Assignment_Demo.Dynamic.Real, Boolean)
+  nameWithType: CircleCommand.CircleCommand(Real, bool)
+  nameWithType.vb: CircleCommand.New(Real, Boolean)
+- uid: ASE_Assignment_Demo.Commands.CircleCommand.#ctor*
+  name: CircleCommand
+  href: api/ASE_Assignment_Demo.Commands.CircleCommand.html#ASE_Assignment_Demo_Commands_CircleCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.CircleCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand.CircleCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.CircleCommand.New
+  nameWithType: CircleCommand.CircleCommand
+  nameWithType.vb: CircleCommand.New
+- uid: ASE_Assignment_Demo.Commands.CircleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.CircleCommand.html#ASE_Assignment_Demo_Commands_CircleCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.CircleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: CircleCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.CircleCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.CircleCommand.html#ASE_Assignment_Demo_Commands_CircleCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.CircleCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.CircleCommand.Execute
+  nameWithType: CircleCommand.Execute
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand
+  name: MoveToCommand
+  href: api/ASE_Assignment_Demo.Commands.MoveToCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.MoveToCommand
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand
+  nameWithType: MoveToCommand
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name: MoveToCommand(Int, Int)
+  href: api/ASE_Assignment_Demo.Commands.MoveToCommand.html#ASE_Assignment_Demo_Commands_MoveToCommand__ctor_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_
+  commentId: M:ASE_Assignment_Demo.Commands.MoveToCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name.vb: New(Int, Int)
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand.MoveToCommand(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  fullName.vb: ASE_Assignment_Demo.Commands.MoveToCommand.New(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  nameWithType: MoveToCommand.MoveToCommand(Int, Int)
+  nameWithType.vb: MoveToCommand.New(Int, Int)
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand.#ctor*
+  name: MoveToCommand
+  href: api/ASE_Assignment_Demo.Commands.MoveToCommand.html#ASE_Assignment_Demo_Commands_MoveToCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.MoveToCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand.MoveToCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.MoveToCommand.New
+  nameWithType: MoveToCommand.MoveToCommand
+  nameWithType.vb: MoveToCommand.New
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.MoveToCommand.html#ASE_Assignment_Demo_Commands_MoveToCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.MoveToCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: MoveToCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.MoveToCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.MoveToCommand.html#ASE_Assignment_Demo_Commands_MoveToCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.MoveToCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.MoveToCommand.Execute
+  nameWithType: MoveToCommand.Execute
+- uid: ASE_Assignment_Demo.Commands.RectCommand
+  name: RectCommand
+  href: api/ASE_Assignment_Demo.Commands.RectCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.RectCommand
+  fullName: ASE_Assignment_Demo.Commands.RectCommand
+  nameWithType: RectCommand
+- uid: ASE_Assignment_Demo.Commands.RectCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int,System.Boolean)
+  name: RectCommand(Int, Int, bool)
+  href: api/ASE_Assignment_Demo.Commands.RectCommand.html#ASE_Assignment_Demo_Commands_RectCommand__ctor_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.Commands.RectCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int,System.Boolean)
+  name.vb: New(Int, Int, Boolean)
+  fullName: ASE_Assignment_Demo.Commands.RectCommand.RectCommand(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int, bool)
+  fullName.vb: ASE_Assignment_Demo.Commands.RectCommand.New(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int, Boolean)
+  nameWithType: RectCommand.RectCommand(Int, Int, bool)
+  nameWithType.vb: RectCommand.New(Int, Int, Boolean)
+- uid: ASE_Assignment_Demo.Commands.RectCommand.#ctor*
+  name: RectCommand
+  href: api/ASE_Assignment_Demo.Commands.RectCommand.html#ASE_Assignment_Demo_Commands_RectCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.RectCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.RectCommand.RectCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.RectCommand.New
+  nameWithType: RectCommand.RectCommand
+  nameWithType.vb: RectCommand.New
+- uid: ASE_Assignment_Demo.Commands.RectCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.RectCommand.html#ASE_Assignment_Demo_Commands_RectCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.RectCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.RectCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: RectCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.RectCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.RectCommand.html#ASE_Assignment_Demo_Commands_RectCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.RectCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.RectCommand.Execute
+  nameWithType: RectCommand.Execute
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand
+  name: SetPenCommand
+  href: api/ASE_Assignment_Demo.Commands.SetPenCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.SetPenCommand
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand
+  nameWithType: SetPenCommand
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name: SetPenCommand(Int, Int, Int)
+  href: api/ASE_Assignment_Demo.Commands.SetPenCommand.html#ASE_Assignment_Demo_Commands_SetPenCommand__ctor_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_
+  commentId: M:ASE_Assignment_Demo.Commands.SetPenCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name.vb: New(Int, Int, Int)
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand.SetPenCommand(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  fullName.vb: ASE_Assignment_Demo.Commands.SetPenCommand.New(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  nameWithType: SetPenCommand.SetPenCommand(Int, Int, Int)
+  nameWithType.vb: SetPenCommand.New(Int, Int, Int)
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand.#ctor*
+  name: SetPenCommand
+  href: api/ASE_Assignment_Demo.Commands.SetPenCommand.html#ASE_Assignment_Demo_Commands_SetPenCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.SetPenCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand.SetPenCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.SetPenCommand.New
+  nameWithType: SetPenCommand.SetPenCommand
+  nameWithType.vb: SetPenCommand.New
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.SetPenCommand.html#ASE_Assignment_Demo_Commands_SetPenCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.SetPenCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: SetPenCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.SetPenCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.SetPenCommand.html#ASE_Assignment_Demo_Commands_SetPenCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.SetPenCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.SetPenCommand.Execute
+  nameWithType: SetPenCommand.Execute
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand
+  name: TriangleCommand
+  href: api/ASE_Assignment_Demo.Commands.TriangleCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.TriangleCommand
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand
+  nameWithType: TriangleCommand
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name: TriangleCommand(Int, Int)
+  href: api/ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand__ctor_ASE_Assignment_Demo_Dynamic_Int_ASE_Assignment_Demo_Dynamic_Int_
+  commentId: M:ASE_Assignment_Demo.Commands.TriangleCommand.#ctor(ASE_Assignment_Demo.Dynamic.Int,ASE_Assignment_Demo.Dynamic.Int)
+  name.vb: New(Int, Int)
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.TriangleCommand(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  fullName.vb: ASE_Assignment_Demo.Commands.TriangleCommand.New(ASE_Assignment_Demo.Dynamic.Int, ASE_Assignment_Demo.Dynamic.Int)
+  nameWithType: TriangleCommand.TriangleCommand(Int, Int)
+  nameWithType.vb: TriangleCommand.New(Int, Int)
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.#ctor*
+  name: TriangleCommand
+  href: api/ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.TriangleCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.TriangleCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.TriangleCommand.New
+  nameWithType: TriangleCommand.TriangleCommand
+  nameWithType.vb: TriangleCommand.New
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: TriangleCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.TriangleCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.TriangleCommand.html#ASE_Assignment_Demo_Commands_TriangleCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.TriangleCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.TriangleCommand.Execute
+  nameWithType: TriangleCommand.Execute
+- uid: ASE_Assignment_Demo.Commands.WhileCommand
+  name: WhileCommand
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html
+  commentId: T:ASE_Assignment_Demo.Commands.WhileCommand
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand
+  nameWithType: WhileCommand
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.#ctor(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},ASE_Assignment_Demo.Factories.CommandFactory)
+  name: WhileCommand(string, Dictionary<string, object>, CommandFactory)
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand__ctor_System_String_System_Collections_Generic_Dictionary_System_String_System_Object__ASE_Assignment_Demo_Factories_CommandFactory_
+  commentId: M:ASE_Assignment_Demo.Commands.WhileCommand.#ctor(System.String,System.Collections.Generic.Dictionary{System.String,System.Object},ASE_Assignment_Demo.Factories.CommandFactory)
+  name.vb: New(String, Dictionary(Of String, Object), CommandFactory)
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.WhileCommand(string, System.Collections.Generic.Dictionary<string, object>, ASE_Assignment_Demo.Factories.CommandFactory)
+  fullName.vb: ASE_Assignment_Demo.Commands.WhileCommand.New(String, System.Collections.Generic.Dictionary(Of String, Object), ASE_Assignment_Demo.Factories.CommandFactory)
+  nameWithType: WhileCommand.WhileCommand(string, Dictionary<string, object>, CommandFactory)
+  nameWithType.vb: WhileCommand.New(String, Dictionary(Of String, Object), CommandFactory)
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.#ctor*
+  name: WhileCommand
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Commands.WhileCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.WhileCommand
+  fullName.vb: ASE_Assignment_Demo.Commands.WhileCommand.New
+  nameWithType: WhileCommand.WhileCommand
+  nameWithType.vb: WhileCommand.New
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.AddCommand(ASE_Assignment_Demo.Interfaces.ICustomCommand)
+  name: AddCommand(ICustomCommand)
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand_AddCommand_ASE_Assignment_Demo_Interfaces_ICustomCommand_
+  commentId: M:ASE_Assignment_Demo.Commands.WhileCommand.AddCommand(ASE_Assignment_Demo.Interfaces.ICustomCommand)
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.AddCommand(ASE_Assignment_Demo.Interfaces.ICustomCommand)
+  nameWithType: WhileCommand.AddCommand(ICustomCommand)
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.AddCommand*
+  name: AddCommand
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand_AddCommand_
+  commentId: Overload:ASE_Assignment_Demo.Commands.WhileCommand.AddCommand
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.AddCommand
+  nameWithType: WhileCommand.AddCommand
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Commands.WhileCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: WhileCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Commands.WhileCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Commands.WhileCommand.html#ASE_Assignment_Demo_Commands_WhileCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Commands.WhileCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Commands.WhileCommand.Execute
+  nameWithType: WhileCommand.Execute
+- uid: ASE_Assignment_Demo.Dynamic
+  name: ASE_Assignment_Demo.Dynamic
+  href: api/ASE_Assignment_Demo.Dynamic.html
+  commentId: N:ASE_Assignment_Demo.Dynamic
+  fullName: ASE_Assignment_Demo.Dynamic
+  nameWithType: ASE_Assignment_Demo.Dynamic
+- uid: ASE_Assignment_Demo.Dynamic.Int
+  name: Int
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html
+  commentId: T:ASE_Assignment_Demo.Dynamic.Int
+  fullName: ASE_Assignment_Demo.Dynamic.Int
+  nameWithType: Int
+- uid: ASE_Assignment_Demo.Dynamic.Int.#ctor(System.Int32)
+  name: Int(int)
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int__ctor_System_Int32_
+  commentId: M:ASE_Assignment_Demo.Dynamic.Int.#ctor(System.Int32)
+  name.vb: New(Integer)
+  fullName: ASE_Assignment_Demo.Dynamic.Int.Int(int)
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Int.New(Integer)
+  nameWithType: Int.Int(int)
+  nameWithType.vb: Int.New(Integer)
+- uid: ASE_Assignment_Demo.Dynamic.Int.#ctor*
+  name: Int
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Int.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Dynamic.Int.Int
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Int.New
+  nameWithType: Int.Int
+  nameWithType.vb: Int.New
+- uid: ASE_Assignment_Demo.Dynamic.Int.GetValue
+  name: GetValue()
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_GetValue
+  commentId: M:ASE_Assignment_Demo.Dynamic.Int.GetValue
+  fullName: ASE_Assignment_Demo.Dynamic.Int.GetValue()
+  nameWithType: Int.GetValue()
+- uid: ASE_Assignment_Demo.Dynamic.Int.GetValue*
+  name: GetValue
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_GetValue_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Int.GetValue
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Int.GetValue
+  nameWithType: Int.GetValue
+- uid: ASE_Assignment_Demo.Dynamic.Int.SetValue(System.Int32)
+  name: SetValue(int)
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_SetValue_System_Int32_
+  commentId: M:ASE_Assignment_Demo.Dynamic.Int.SetValue(System.Int32)
+  name.vb: SetValue(Integer)
+  fullName: ASE_Assignment_Demo.Dynamic.Int.SetValue(int)
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Int.SetValue(Integer)
+  nameWithType: Int.SetValue(int)
+  nameWithType.vb: Int.SetValue(Integer)
+- uid: ASE_Assignment_Demo.Dynamic.Int.SetValue*
+  name: SetValue
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_SetValue_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Int.SetValue
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Int.SetValue
+  nameWithType: Int.SetValue
+- uid: ASE_Assignment_Demo.Dynamic.Int.ToString
+  name: ToString()
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_ToString
+  commentId: M:ASE_Assignment_Demo.Dynamic.Int.ToString
+  fullName: ASE_Assignment_Demo.Dynamic.Int.ToString()
+  nameWithType: Int.ToString()
+- uid: ASE_Assignment_Demo.Dynamic.Int.ToString*
+  name: ToString
+  href: api/ASE_Assignment_Demo.Dynamic.Int.html#ASE_Assignment_Demo_Dynamic_Int_ToString_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Int.ToString
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Int.ToString
+  nameWithType: Int.ToString
+- uid: ASE_Assignment_Demo.Dynamic.Real
+  name: Real
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html
+  commentId: T:ASE_Assignment_Demo.Dynamic.Real
+  fullName: ASE_Assignment_Demo.Dynamic.Real
+  nameWithType: Real
+- uid: ASE_Assignment_Demo.Dynamic.Real.#ctor(System.Double)
+  name: Real(double)
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real__ctor_System_Double_
+  commentId: M:ASE_Assignment_Demo.Dynamic.Real.#ctor(System.Double)
+  name.vb: New(Double)
+  fullName: ASE_Assignment_Demo.Dynamic.Real.Real(double)
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Real.New(Double)
+  nameWithType: Real.Real(double)
+  nameWithType.vb: Real.New(Double)
+- uid: ASE_Assignment_Demo.Dynamic.Real.#ctor*
+  name: Real
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Real.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Dynamic.Real.Real
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Real.New
+  nameWithType: Real.Real
+  nameWithType.vb: Real.New
+- uid: ASE_Assignment_Demo.Dynamic.Real.GetValue
+  name: GetValue()
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_GetValue
+  commentId: M:ASE_Assignment_Demo.Dynamic.Real.GetValue
+  fullName: ASE_Assignment_Demo.Dynamic.Real.GetValue()
+  nameWithType: Real.GetValue()
+- uid: ASE_Assignment_Demo.Dynamic.Real.GetValue*
+  name: GetValue
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_GetValue_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Real.GetValue
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Real.GetValue
+  nameWithType: Real.GetValue
+- uid: ASE_Assignment_Demo.Dynamic.Real.SetValue(System.Double)
+  name: SetValue(double)
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_SetValue_System_Double_
+  commentId: M:ASE_Assignment_Demo.Dynamic.Real.SetValue(System.Double)
+  name.vb: SetValue(Double)
+  fullName: ASE_Assignment_Demo.Dynamic.Real.SetValue(double)
+  fullName.vb: ASE_Assignment_Demo.Dynamic.Real.SetValue(Double)
+  nameWithType: Real.SetValue(double)
+  nameWithType.vb: Real.SetValue(Double)
+- uid: ASE_Assignment_Demo.Dynamic.Real.SetValue*
+  name: SetValue
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_SetValue_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Real.SetValue
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Real.SetValue
+  nameWithType: Real.SetValue
+- uid: ASE_Assignment_Demo.Dynamic.Real.ToString
+  name: ToString()
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_ToString
+  commentId: M:ASE_Assignment_Demo.Dynamic.Real.ToString
+  fullName: ASE_Assignment_Demo.Dynamic.Real.ToString()
+  nameWithType: Real.ToString()
+- uid: ASE_Assignment_Demo.Dynamic.Real.ToString*
+  name: ToString
+  href: api/ASE_Assignment_Demo.Dynamic.Real.html#ASE_Assignment_Demo_Dynamic_Real_ToString_
+  commentId: Overload:ASE_Assignment_Demo.Dynamic.Real.ToString
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Dynamic.Real.ToString
+  nameWithType: Real.ToString
+- uid: ASE_Assignment_Demo.Factories
+  name: ASE_Assignment_Demo.Factories
+  href: api/ASE_Assignment_Demo.Factories.html
+  commentId: N:ASE_Assignment_Demo.Factories
+  fullName: ASE_Assignment_Demo.Factories
+  nameWithType: ASE_Assignment_Demo.Factories
+- uid: ASE_Assignment_Demo.Factories.CommandFactory
+  name: CommandFactory
+  href: api/ASE_Assignment_Demo.Factories.CommandFactory.html
+  commentId: T:ASE_Assignment_Demo.Factories.CommandFactory
+  fullName: ASE_Assignment_Demo.Factories.CommandFactory
+  nameWithType: CommandFactory
+- uid: ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand(System.String,System.Object[],System.Collections.Generic.List{ASE_Assignment_Demo.Interfaces.ICustomCommand})
+  name: CreateCommand(string, object[], List<ICustomCommand>)
+  href: api/ASE_Assignment_Demo.Factories.CommandFactory.html#ASE_Assignment_Demo_Factories_CommandFactory_CreateCommand_System_String_System_Object___System_Collections_Generic_List_ASE_Assignment_Demo_Interfaces_ICustomCommand__
+  commentId: M:ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand(System.String,System.Object[],System.Collections.Generic.List{ASE_Assignment_Demo.Interfaces.ICustomCommand})
+  name.vb: CreateCommand(String, Object(), List(Of ICustomCommand))
+  fullName: ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand(string, object[], System.Collections.Generic.List<ASE_Assignment_Demo.Interfaces.ICustomCommand>)
+  fullName.vb: ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand(String, Object(), System.Collections.Generic.List(Of ASE_Assignment_Demo.Interfaces.ICustomCommand))
+  nameWithType: CommandFactory.CreateCommand(string, object[], List<ICustomCommand>)
+  nameWithType.vb: CommandFactory.CreateCommand(String, Object(), List(Of ICustomCommand))
+- uid: ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand*
+  name: CreateCommand
+  href: api/ASE_Assignment_Demo.Factories.CommandFactory.html#ASE_Assignment_Demo_Factories_CommandFactory_CreateCommand_
+  commentId: Overload:ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Factories.CommandFactory.CreateCommand
+  nameWithType: CommandFactory.CreateCommand
+- uid: ASE_Assignment_Demo.Form1
+  name: Form1
+  href: api/ASE_Assignment_Demo.Form1.html
+  commentId: T:ASE_Assignment_Demo.Form1
+  fullName: ASE_Assignment_Demo.Form1
+  nameWithType: Form1
+- uid: ASE_Assignment_Demo.Form1.#ctor
+  name: Form1()
+  href: api/ASE_Assignment_Demo.Form1.html#ASE_Assignment_Demo_Form1__ctor
+  commentId: M:ASE_Assignment_Demo.Form1.#ctor
+  name.vb: New()
+  fullName: ASE_Assignment_Demo.Form1.Form1()
+  fullName.vb: ASE_Assignment_Demo.Form1.New()
+  nameWithType: Form1.Form1()
+  nameWithType.vb: Form1.New()
+- uid: ASE_Assignment_Demo.Form1.#ctor*
+  name: Form1
+  href: api/ASE_Assignment_Demo.Form1.html#ASE_Assignment_Demo_Form1__ctor_
+  commentId: Overload:ASE_Assignment_Demo.Form1.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: ASE_Assignment_Demo.Form1.Form1
+  fullName.vb: ASE_Assignment_Demo.Form1.New
+  nameWithType: Form1.Form1
+  nameWithType.vb: Form1.New
+- uid: ASE_Assignment_Demo.Form1.Dispose(System.Boolean)
+  name: Dispose(bool)
+  href: api/ASE_Assignment_Demo.Form1.html#ASE_Assignment_Demo_Form1_Dispose_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.Form1.Dispose(System.Boolean)
+  name.vb: Dispose(Boolean)
+  fullName: ASE_Assignment_Demo.Form1.Dispose(bool)
+  fullName.vb: ASE_Assignment_Demo.Form1.Dispose(Boolean)
+  nameWithType: Form1.Dispose(bool)
+  nameWithType.vb: Form1.Dispose(Boolean)
+- uid: ASE_Assignment_Demo.Form1.Dispose*
+  name: Dispose
+  href: api/ASE_Assignment_Demo.Form1.html#ASE_Assignment_Demo_Form1_Dispose_
+  commentId: Overload:ASE_Assignment_Demo.Form1.Dispose
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Form1.Dispose
+  nameWithType: Form1.Dispose
+- uid: ASE_Assignment_Demo.IAppCanvas
+  name: IAppCanvas
+  href: api/ASE_Assignment_Demo.IAppCanvas.html
+  commentId: T:ASE_Assignment_Demo.IAppCanvas
+  fullName: ASE_Assignment_Demo.IAppCanvas
+  nameWithType: IAppCanvas
+- uid: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name: Circle(Real, bool)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Circle_ASE_Assignment_Demo_Dynamic_Real_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real,System.Boolean)
+  name.vb: Circle(Real, Boolean)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, bool)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Circle(ASE_Assignment_Demo.Dynamic.Real, Boolean)
+  nameWithType: IAppCanvas.Circle(Real, bool)
+  nameWithType.vb: IAppCanvas.Circle(Real, Boolean)
+- uid: ASE_Assignment_Demo.IAppCanvas.Circle*
+  name: Circle
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Circle_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Circle
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.Circle
+  nameWithType: IAppCanvas.Circle
+- uid: ASE_Assignment_Demo.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  name: MoveTo(int, int)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_MoveTo_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.MoveTo(System.Int32,System.Int32)
+  name.vb: MoveTo(Integer, Integer)
+  fullName: ASE_Assignment_Demo.IAppCanvas.MoveTo(int, int)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.MoveTo(Integer, Integer)
+  nameWithType: IAppCanvas.MoveTo(int, int)
+  nameWithType.vb: IAppCanvas.MoveTo(Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.MoveTo*
+  name: MoveTo
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_MoveTo_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.MoveTo
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.MoveTo
+  nameWithType: IAppCanvas.MoveTo
+- uid: ASE_Assignment_Demo.IAppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name: Rect(int, int, bool)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Rect_System_Int32_System_Int32_System_Boolean_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Rect(System.Int32,System.Int32,System.Boolean)
+  name.vb: Rect(Integer, Integer, Boolean)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Rect(int, int, bool)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Rect(Integer, Integer, Boolean)
+  nameWithType: IAppCanvas.Rect(int, int, bool)
+  nameWithType.vb: IAppCanvas.Rect(Integer, Integer, Boolean)
+- uid: ASE_Assignment_Demo.IAppCanvas.Rect*
+  name: Rect
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Rect_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Rect
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.Rect
+  nameWithType: IAppCanvas.Rect
+- uid: ASE_Assignment_Demo.IAppCanvas.Reset
+  name: Reset()
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Reset
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Reset
+  fullName: ASE_Assignment_Demo.IAppCanvas.Reset()
+  nameWithType: IAppCanvas.Reset()
+- uid: ASE_Assignment_Demo.IAppCanvas.Reset*
+  name: Reset
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Reset_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Reset
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.Reset
+  nameWithType: IAppCanvas.Reset
+- uid: ASE_Assignment_Demo.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name: SetColour(int, int, int)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetColour_System_Int32_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.SetColour(System.Int32,System.Int32,System.Int32)
+  name.vb: SetColour(Integer, Integer, Integer)
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetColour(int, int, int)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.SetColour(Integer, Integer, Integer)
+  nameWithType: IAppCanvas.SetColour(int, int, int)
+  nameWithType.vb: IAppCanvas.SetColour(Integer, Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.SetColour*
+  name: SetColour
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetColour_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.SetColour
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetColour
+  nameWithType: IAppCanvas.SetColour
+- uid: ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  name: SetGraphics(Graphics)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetGraphics_System_Drawing_Graphics_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetGraphics(System.Drawing.Graphics)
+  nameWithType: IAppCanvas.SetGraphics(Graphics)
+- uid: ASE_Assignment_Demo.IAppCanvas.SetGraphics*
+  name: SetGraphics
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_SetGraphics_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.SetGraphics
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.SetGraphics
+  nameWithType: IAppCanvas.SetGraphics
+- uid: ASE_Assignment_Demo.IAppCanvas.Tri(System.Int32,System.Int32)
+  name: Tri(int, int)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Tri_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.Tri(System.Int32,System.Int32)
+  name.vb: Tri(Integer, Integer)
+  fullName: ASE_Assignment_Demo.IAppCanvas.Tri(int, int)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.Tri(Integer, Integer)
+  nameWithType: IAppCanvas.Tri(int, int)
+  nameWithType.vb: IAppCanvas.Tri(Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.Tri*
+  name: Tri
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_Tri_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.Tri
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.Tri
+  nameWithType: IAppCanvas.Tri
+- uid: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(System.Int32,System.Int32)
+  name: ValidatePosition(int, int)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_ValidatePosition_System_Int32_System_Int32_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.ValidatePosition(System.Int32,System.Int32)
+  name.vb: ValidatePosition(Integer, Integer)
+  fullName: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(int, int)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.ValidatePosition(Integer, Integer)
+  nameWithType: IAppCanvas.ValidatePosition(int, int)
+  nameWithType.vb: IAppCanvas.ValidatePosition(Integer, Integer)
+- uid: ASE_Assignment_Demo.IAppCanvas.ValidatePosition*
+  name: ValidatePosition
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_ValidatePosition_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.ValidatePosition
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.ValidatePosition
+  nameWithType: IAppCanvas.ValidatePosition
+- uid: ASE_Assignment_Demo.IAppCanvas.WriteText(System.String)
+  name: WriteText(string)
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_WriteText_System_String_
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.WriteText(System.String)
+  name.vb: WriteText(String)
+  fullName: ASE_Assignment_Demo.IAppCanvas.WriteText(string)
+  fullName.vb: ASE_Assignment_Demo.IAppCanvas.WriteText(String)
+  nameWithType: IAppCanvas.WriteText(string)
+  nameWithType.vb: IAppCanvas.WriteText(String)
+- uid: ASE_Assignment_Demo.IAppCanvas.WriteText*
+  name: WriteText
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_WriteText_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.WriteText
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.WriteText
+  nameWithType: IAppCanvas.WriteText
+- uid: ASE_Assignment_Demo.IAppCanvas.getBitmap
+  name: getBitmap()
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_getBitmap
+  commentId: M:ASE_Assignment_Demo.IAppCanvas.getBitmap
+  fullName: ASE_Assignment_Demo.IAppCanvas.getBitmap()
+  nameWithType: IAppCanvas.getBitmap()
+- uid: ASE_Assignment_Demo.IAppCanvas.getBitmap*
+  name: getBitmap
+  href: api/ASE_Assignment_Demo.IAppCanvas.html#ASE_Assignment_Demo_IAppCanvas_getBitmap_
+  commentId: Overload:ASE_Assignment_Demo.IAppCanvas.getBitmap
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.IAppCanvas.getBitmap
+  nameWithType: IAppCanvas.getBitmap
+- uid: ASE_Assignment_Demo.Interfaces
+  name: ASE_Assignment_Demo.Interfaces
+  href: api/ASE_Assignment_Demo.Interfaces.html
+  commentId: N:ASE_Assignment_Demo.Interfaces
+  fullName: ASE_Assignment_Demo.Interfaces
+  nameWithType: ASE_Assignment_Demo.Interfaces
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  name: ICustomCommand
+  href: api/ASE_Assignment_Demo.Interfaces.ICustomCommand.html
+  commentId: T:ASE_Assignment_Demo.Interfaces.ICustomCommand
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand
+  nameWithType: ICustomCommand
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  name: Execute(IAppCanvas)
+  href: api/ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_ASE_Assignment_Demo_IAppCanvas_
+  commentId: M:ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute(ASE_Assignment_Demo.IAppCanvas)
+  nameWithType: ICustomCommand.Execute(IAppCanvas)
+- uid: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute*
+  name: Execute
+  href: api/ASE_Assignment_Demo.Interfaces.ICustomCommand.html#ASE_Assignment_Demo_Interfaces_ICustomCommand_Execute_
+  commentId: Overload:ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute
+  isSpec: "True"
+  fullName: ASE_Assignment_Demo.Interfaces.ICustomCommand.Execute
+  nameWithType: ICustomCommand.Execute
