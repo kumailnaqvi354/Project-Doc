@@ -3,7 +3,12 @@
     {
       "src": [
         {
-          "src": "../src",
+          "src": "../ase-demo-assignment-kumailnaqvi354/ASE Assignment Demo",
+          "files": [
+            "**/*.csproj"
+          ]
+        }, {
+          "src": "../ase-demo-assignment-kumailnaqvi354/ASEAssignmentDemo.Tests",
           "files": [
             "**/*.csproj"
           ]
